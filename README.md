@@ -6,8 +6,8 @@ Here is my configuration files and templates that fit my needs.
 
 Which environments are addressed
 
-- Linux
-- MacOS
+- Linux, standard terminal
+- MacOS, iTerm2
 
 Which tools are addressed
 
