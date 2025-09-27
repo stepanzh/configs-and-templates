@@ -5,6 +5,8 @@ I usually work with Julia, C, LaTeX and Python.
 
 My config is inspired by [Josean Martinez' YouTube video](https://www.youtube.com/watch?v=vdn_pKJUda8).
 
+List of TODOs
+- [ ] Keymap for Russian keyboard: https://github.com/Wansmer/langmapper.nvim
 
 ## Features
 
