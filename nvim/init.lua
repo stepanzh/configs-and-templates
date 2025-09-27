@@ -10,6 +10,7 @@ require('base.colorscheme')
 require('base.keymaps')
 
 require('plugins.UltiSnips.plugin_settings')
+require('plugins.julia_vim_l2u')
 
 require('user_commands')
 
