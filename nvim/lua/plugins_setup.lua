@@ -34,7 +34,6 @@ return packer.startup(function(use)
   use { 'JuliaEditorSupport/julia-vim' }  -- Julia support for vim
   use { 'kaarmu/typst.vim', ft = {'typst'} }  -- Typst support for vim (coloring, file extension?)
   use { 'lervag/vimtex' }  -- LaTeX
-  use {'kaarmu/typst.vim', ft = {'typst'}}
 
   if packer_bootstrap then
     require('packer').sync()
