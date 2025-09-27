@@ -1,6 +1,6 @@
 -- Configuration
---  Python 3. Fullpath or symlink is OK.
-vim.g.python3_host_prog = 'python3'
+vim.g.python3_host_prog = 'python3'  -- Required by UltiSnips. Path to python 3 executable with pynvim installed.
+vim.g.AUTHOR = 'Stepan Zakharov'     -- Author of texts. Used in snippets.
 
 
 require('plugins_setup')  -- Should be called before first stage of packer.
